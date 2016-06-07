@@ -20,4 +20,9 @@
 
 ### No.5 ロゴアニメーション 
 ![ロゴアニメーション](https://ics.media/wp-content/uploads/2016/04/160405_logo_animation_all_mini.gif)
-- [Effekseer編 UVスクロールを使ったロゴアニメーションの作成成](https://ics.media/entry/11650)
+- [Effekseer編 UVスクロールを使ったロゴアニメーションの作成](https://ics.media/entry/11650)
+
+### No.6 ゆがみ効果を使ったトランジションエフェクト  
+![ゆがみ効果を使ったトランジションエフェクト](https://ics.media/wp-content/uploads/2016/06/160602_effect05_anime05.gif)
+- [Effekseer編 ゆがみ効果を使ったトランジションエフェクト]
+(https://ics.media/?p=12467)
