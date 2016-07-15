@@ -3,6 +3,11 @@
 エフェクト作成入門講座の一覧です。
 詳しくは [ICS MEDIA](http://ics.media/) をご覧ください。
 
+### No.7 3Dモデルを使ったネオン風テキストストロークアニメーション  
+![3Dモデルを使ったネオン風テキストストロークアニメーション](https://ics.media/wp-content/uploads/2016/07/160712_effect06_text_rainbow_low.gif)
+- [Effekseer編 3Dモデルを使ったネオン風テキストストロークアニメーション]
+(https://ics.media/entry/12967)
+
 ### No.6 ゆがみ効果を使ったトランジションエフェクト  
 ![ゆがみ効果を使ったトランジションエフェクト](https://ics.media/wp-content/uploads/2016/06/160602_effect05_anime05.gif)
 - [Effekseer編 ゆがみ効果を使ったトランジションエフェクト]
